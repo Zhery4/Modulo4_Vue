@@ -5,9 +5,9 @@
 </template>
 
 <style>
-    header{
-        background-color: #CB6040;
-        padding: 10px;
-        border-bottom: 2px solid #999;
-    }
+header {
+    background-color: #ff4d4d;
+    padding: 10px;
+    border-bottom: 2px solid #999;
+}
 </style>
